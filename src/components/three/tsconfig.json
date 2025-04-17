@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+      "outDir": "../../../dist/three",
+      "rootDir": ".",
+      "composite": true,
+      "skipLibCheck": true,
+      "strict": true,
+      "jsx": "react",
+      "esModuleInterop": true,
+      "moduleResolution": "node",
+      "baseUrl": ".",
+      "paths": {
+        "three": ["../../../node_modules/three"],
+        "leva": ["../../../node_modules/leva"],
+        "@react-three/fiber": ["../../../node_modules/@react-three/fiber"],
+        "@mui/material/*": ["../../../node_modules/@mui/material/*"]
+      }
+    },
+    "include": ["**/*"]
+  }

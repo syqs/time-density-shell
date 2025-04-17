@@ -1,0 +1,49 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "strict": false,
+    "noEmit": true,
+    "allowJs": true,
+    "module": "esnext",
+    "jsx": "react-jsx",
+    "skipLibCheck": true,
+    "noImplicitAny": false,
+    "noImplicitThis": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "strictNullChecks": true,
+    "resolveJsonModule": true,
+    "moduleResolution": "node",
+    "noFallthroughCasesInSwitch": true,
+    "useUnknownInCatchVariables": false,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "disableSizeLimit": false,
+    "types": []
+  },
+  "paths": {
+    "@react-three/fiber": ["node_modules/@react-three/fiber"],
+    "three": ["node_modules/three"],
+    "leva": ["node_modules/leva"],
+  },
+  "exclude": [
+    "node_modules",
+    "src/three/**/*",
+    "src/components/three/**/*",
+    "dist"
+  ],
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    "src/**/*"
+  ],
+  "references": [
+    { "path": "./src/components/three" }
+  ],
+}
