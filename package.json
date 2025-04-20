@@ -6,6 +6,7 @@
   "private": true,
   "scripts": {
     "start": "react-scripts start",
+    "hello": "echo \"Hello World!\"",
     "build": "react-scripts build",
     "eject": "react-scripts eject",
     "lint": "eslint \"src/**/*.{js,jsx,ts,tsx}\"",
