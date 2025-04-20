@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_ts=self.webpackChunk_minimal_kit_cra_ts||[]).push([[5397],{47476:function(i,n,t){t.r(n),t.d(n,{default:function(){return s}});var r=t(6907),a=t(45810),c=t(76061),e=t(80184);function s(){var i=(0,a.UO)().id;return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(r.ql,{children:(0,e.jsx)("title",{children:" Dashboard: Invoice Edit"})}),(0,e.jsx)(c.a1,{id:"".concat(i)})]})}}}]);
+//# sourceMappingURL=5397.e275bf7b.chunk.js.map

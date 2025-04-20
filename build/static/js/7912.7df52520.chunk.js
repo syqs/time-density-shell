@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_ts=self.webpackChunk_minimal_kit_cra_ts||[]).push([[7912],{3264:function(n,r,t){t.r(r),t.d(r,{default:function(){return a}});var e=t(6907),i=t(36168),s=t(80184);function a(){return(0,s.jsxs)(s.Fragment,{children:[(0,s.jsx)(e.ql,{children:(0,s.jsx)("title",{children:" Firebase: Forgot Password"})}),(0,s.jsx)(i.vI,{})]})}}}]);
+//# sourceMappingURL=7912.7df52520.chunk.js.map

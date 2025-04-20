@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_ts=self.webpackChunk_minimal_kit_cra_ts||[]).push([[9022],{19060:function(i,n,t){t.r(n),t.d(n,{default:function(){return s}});var e=t(6907),r=t(24252),l=t(80184);function s(){return(0,l.jsxs)(l.Fragment,{children:[(0,l.jsx)(e.ql,{children:(0,l.jsx)("title",{children:" Amplify: Amplify Login"})}),(0,l.jsx)(r.ve,{})]})}}}]);
+//# sourceMappingURL=9022.64385d8c.chunk.js.map

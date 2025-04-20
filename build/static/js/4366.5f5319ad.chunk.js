@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_ts=self.webpackChunk_minimal_kit_cra_ts||[]).push([[4366],{24366:function(n,i,t){t.r(i),t.d(i,{default:function(){return c}});var r=t(6907),e=t(32618),s=t(80184);function c(){return(0,s.jsxs)(s.Fragment,{children:[(0,s.jsx)(r.ql,{children:(0,s.jsx)("title",{children:" Foundations: Grid"})}),(0,s.jsx)(e.zG,{})]})}}}]);
+//# sourceMappingURL=4366.5f5319ad.chunk.js.map

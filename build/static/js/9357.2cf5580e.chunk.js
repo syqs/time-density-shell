@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_ts=self.webpackChunk_minimal_kit_cra_ts||[]).push([[9357],{68700:function(n,t,i){i.r(t),i.d(t,{default:function(){return a}});var r=i(6907),s=i(38340),e=i(80184);function a(){return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(r.ql,{children:(0,e.jsx)("title",{children:" Dashboard: Tour List"})}),(0,e.jsx)(s.J0,{})]})}}}]);
+//# sourceMappingURL=9357.2cf5580e.chunk.js.map

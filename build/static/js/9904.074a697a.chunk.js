@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_ts=self.webpackChunk_minimal_kit_cra_ts||[]).push([[9904],{46127:function(n,e,t){t.r(e),t.d(e,{default:function(){return s}});var r=t(6907),i=t(45450),a=t(80184);function s(){return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(r.ql,{children:(0,a.jsx)("title",{children:" Dashboard: Create a new job"})}),(0,a.jsx)(i.mW,{})]})}}}]);
+//# sourceMappingURL=9904.074a697a.chunk.js.map

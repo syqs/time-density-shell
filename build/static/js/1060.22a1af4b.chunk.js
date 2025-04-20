@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_ts=self.webpackChunk_minimal_kit_cra_ts||[]).push([[1060],{4579:function(i,n,t){t.r(n),t.d(n,{default:function(){return c}});var e=t(6907),r=t(24252),s=t(80184);function c(){return(0,s.jsxs)(s.Fragment,{children:[(0,s.jsx)(e.ql,{children:(0,s.jsx)("title",{children:" Amplify: Verify"})}),(0,s.jsx)(r.UG,{})]})}}}]);
+//# sourceMappingURL=1060.22a1af4b.chunk.js.map

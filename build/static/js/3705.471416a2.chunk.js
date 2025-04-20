@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_ts=self.webpackChunk_minimal_kit_cra_ts||[]).push([[3705],{43705:function(n,a,t){t.r(a),t.d(a,{default:function(){return u}});var c=t(72791),e=t(15725);function u(){console.info("CallbackPage");var n=(0,e.t)(),a=(0,c.useCallback)((function(){n.replace("/dashboard")}),[n]);return(0,c.useEffect)((function(){a()}),[]),null}}}]);
+//# sourceMappingURL=3705.471416a2.chunk.js.map

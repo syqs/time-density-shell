@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_ts=self.webpackChunk_minimal_kit_cra_ts||[]).push([[9678],{19678:function(a,i,t){t.r(i);var _=t(3714);i.default=_.g}}]);
+//# sourceMappingURL=9678.eea2097d.chunk.js.map

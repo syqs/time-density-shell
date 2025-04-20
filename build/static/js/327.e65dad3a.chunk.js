@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_ts=self.webpackChunk_minimal_kit_cra_ts||[]).push([[327],{59413:function(t,n,i){i.r(n),i.d(n,{default:function(){return a}});var r=i(6907),s=i(3319),e=i(80184);function a(){return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(r.ql,{children:(0,e.jsx)("title",{children:" Dashboard: Post List"})}),(0,e.jsx)(s.Nr,{})]})}}}]);
+//# sourceMappingURL=327.e65dad3a.chunk.js.map

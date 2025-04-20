@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_ts=self.webpackChunk_minimal_kit_cra_ts||[]).push([[1914],{10039:function(n,i,t){t.r(i),t.d(i,{default:function(){return c}});var e=t(6907),r=t(24252),s=t(80184);function c(){return(0,s.jsxs)(s.Fragment,{children:[(0,s.jsx)(e.ql,{children:(0,s.jsx)("title",{children:" Amplify: New Password"})}),(0,s.jsx)(r.DG,{})]})}}}]);
+//# sourceMappingURL=1914.af9e75a2.chunk.js.map

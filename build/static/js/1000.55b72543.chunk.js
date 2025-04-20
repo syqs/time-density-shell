@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_minimal_kit_cra_ts=self.webpackChunk_minimal_kit_cra_ts||[]).push([[1e3],{6741:function(i,n,t){t.r(n),t.d(n,{default:function(){return s}});var r=t(6907),e=t(45810),a=t(38340),c=t(80184);function s(){var i=(0,e.UO)().id;return(0,c.jsxs)(c.Fragment,{children:[(0,c.jsx)(r.ql,{children:(0,c.jsx)("title",{children:" Dashboard: Tour Edit"})}),(0,c.jsx)(a.AE,{id:"".concat(i)})]})}}}]);
+//# sourceMappingURL=1000.55b72543.chunk.js.map
